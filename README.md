@@ -10,8 +10,7 @@
 - 전면 카메라를 이용한 운전자의 상태 파악
 
 
-
-* ***Display***
+# ➤ 시현
 
     ![!ADAS on video](https://github.com/ksp0814/lane-detection/blob/master/demo/lane-test01.jpg)
 
