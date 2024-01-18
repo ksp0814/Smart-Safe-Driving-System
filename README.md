@@ -18,11 +18,11 @@
 
     ![!FCWS](https://github.com/ksp0814/Smart-Safe-Driving-System/blob/master/demo/FCWS.jpg)
     
-* ***Lane Departure Warning System (LDWS)***
+- 차선 이탈 경고 시스템
 
     ![!LDWS](https://github.com/ksp0814/Smart-Safe-Driving-System/blob/master/demo/LDWS.jpg)
 
-* ***Lane Keeping Assist System (LKAS)***
+- 차선 이탈 복귀 시스템
 
     ![!LKAS](https://github.com/ksp0814/Smart-Safe-Driving-System/blob/master/demo/LKAS_01.jpg)
 
