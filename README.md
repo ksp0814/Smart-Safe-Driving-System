@@ -39,7 +39,14 @@
 
 
 # ➤ 시현 (얼굴인식)
-- 얼굴 및 시선 인식
+- 얼굴인식
 
   <img width="500" alt="face" src="https://github.com/ksp0814/Smart-Safe-Driving-System/assets/122997638/59498ac8-6183-441b-beaa-2e23bc402a16">
 
+- 졸음인식
+
+  <img width="500" alt="drowsy" src="https://github.com/ksp0814/Smart-Safe-Driving-System/assets/122997638/0236c6ab-abae-4dd2-87e7-c894555868e0">
+
+- 시선 인식
+
+  <img width="500" alt="left" src="https://github.com/ksp0814/Smart-Safe-Driving-System/assets/122997638/9c61415b-f509-42cd-b701-9de91092cc34">
