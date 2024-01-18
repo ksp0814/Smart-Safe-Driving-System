@@ -15,7 +15,7 @@ Example scripts for the detection of objects using the [YOLOv5](https://github.c
 # ➤ Contents
 1) [라이브러리](#Requirements)
 
-2) [Examples](#Examples)
+2) [예시](#Examples)
 
 3) [Demo](#Demo)
 
