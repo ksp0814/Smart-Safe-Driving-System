@@ -21,7 +21,7 @@
 
   
 
-# ➤ 시현
+# ➤ 시현 (차선인식)
 - 차선인식 및 객체 감지
     ![!FCWS](https://github.com/ksp0814/Smart-Safe-Driving-System/blob/master/demo/lane-test01.jpg)
 - 전방 추돌방지
@@ -35,4 +35,8 @@
 - 차선 이탈 복귀 시스템
 
     ![!LKAS](https://github.com/ksp0814/Smart-Safe-Driving-System/blob/master/demo/LKAS_01.jpg)
+
+
+# ➤ 시현 (얼굴인식)
+
 
