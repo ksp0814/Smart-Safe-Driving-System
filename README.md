@@ -15,26 +15,6 @@
 
     
 
-<h1 id="Examples">➤ Examples</h1>
-
- * ***Convert Onnx to TenserRT model*** :
-
-    Need to modify `onnx_model_path` and `trt_model_path` before converting.
-
-    ```
-    python convertOnnxToTensorRT.py -i <path-of-your-onnx-model>  -o <path-of-your-trt-model>
-    ```
-
- * ***Quantize ONNX models*** :
-
-    Converting a model to use float16 instead of float32 can decrease the model size.
-    ```
-    python onnxQuantization.py -i <path-of-your-onnx-model>
-    ```
-
- 
-<h1 id="Demo">➤ Demo</h1>
-
 * [***Demo Youtube Video***](https://www.youtube.com/watch?v=CHO0C1z5EWE)
 
 * ***Display***
