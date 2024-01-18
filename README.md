@@ -96,7 +96,7 @@ Example scripts for the detection of objects using the [YOLOv5](https://github.c
 
 * ***Display***
 
-    ![!ADAS on video]([https://github.com/jason-li-831202/Vehicle-CV-ADAS/blob/master/demo/demo-gif.gif](https://github.com/ksp0814/lane-detection/blob/master/demo/lane-test01.jpg))
+    ![!ADAS on video](https://github.com/ksp0814/lane-detection/blob/master/demo/lane-test01.jpg)
 
 * ***Front Collision Warning System (FCWS)***
 
