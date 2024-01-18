@@ -108,7 +108,7 @@ Example scripts for the detection of objects using the [YOLOv5](https://github.c
 
 * ***Lane Keeping Assist System (LKAS)***
 
-    ![!LKAS](https://github.com/jason-li-831202/Vehicle-CV-ADAS/blob/master/demo/LKAS.jpg)
+    ![!LKAS](https://github.com/ksp0814/lane-detection/blob/master/demo/LKAS_01.jpg)
 
 <h1 id="License">➤ License</h1>
 WiFi Analyzer is licensed under the GNU General Public License v3.0 (GPLv3).
