@@ -17,7 +17,6 @@
 
 4) [License](#License)
 
-![!ADAS on video](https://github.com/jason-li-831202/Vehicle-CV-ADAS/blob/master/demo/demo.JPG)
 
 <h1 id="Requirements">➤ Requirements</h1>
 
