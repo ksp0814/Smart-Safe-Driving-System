@@ -13,7 +13,12 @@
 # ➤ 알고리즘
 - 얼굴 및 눈 인식 알고리즘
   
-    !<img width="625" alt="알고리즘 1" src="https://github.com/ksp0814/Smart-Safe-Driving-System/assets/122997638/57ce1680-e6ed-42de-b0eb-46b26d7c9768">
+    <img width="625" alt="알고리즘 1" src="https://github.com/ksp0814/Smart-Safe-Driving-System/assets/122997638/57ce1680-e6ed-42de-b0eb-46b26d7c9768">
+
+- 얼굴 인식 + 차선 인식
+
+      <img width="470" alt="알고리즘 2" src="https://github.com/ksp0814/Smart-Safe-Driving-System/assets/122997638/49968d1d-a87b-412e-aafe-7ce39ae03487">
+
   
 
 # ➤ 시현
