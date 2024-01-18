@@ -14,7 +14,7 @@
 # ➤ 시현
 - 차선인식 및 객체 감지
     ![!FCWS](https://github.com/ksp0814/Smart-Safe-Driving-System/blob/master/demo/lane-test01.jpg)
-- 전방추돌방지
+- 전방 추돌방지
 
     ![!FCWS](https://github.com/jason-li-831202/Vehicle-CV-ADAS/blob/master/demo/FCWS.jpg)
     
