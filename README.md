@@ -9,27 +9,10 @@
 - 전방 카메라를 통해 차선인식으로 차선이탈방지
 - 전면 카메라를 이용한 운전자의 상태 파악
 
-1) [라이브러리](#Requirements)
-
-2) [예시](#Examples)
-
-3) [Demo](#Demo)
-
-4) [License](#License)
-
-
-<h1 id="Requirements">➤ Requirements</h1>
 
 * **OpenCV**, **Scikit-learn**, **onnxruntime**, **pycuda** and **pytorch**.
 
-* **Install :**
 
-    The `requirements.txt` file should list all Python libraries that your notebooks
-    depend on, and they will be installed using:
-
-    ```
-    pip install -r requirements.txt
-    ```
     
 
 <h1 id="Examples">➤ Examples</h1>
@@ -49,41 +32,7 @@
     python onnxQuantization.py -i <path-of-your-onnx-model>
     ```
 
- * ***Video Inference*** :
-
-   * Setting Config :
-     > Note : can support onnx/tensorRT format model. But it needs to match the same model type.
-
-    ```python
-    lane_config = {
-     "model_path": "./TrafficLaneDetector/models/culane_res18.trt",
-     "model_type" : LaneModelType.UFLDV2_CULANE
-    }
-
-    object_config = {
-     "model_path": './ObjectDetector/models/yolov8l-coco.trt',
-     "model_type" : ObjectModelType.YOLOV8,
-     "classes_path" : './ObjectDetector/models/coco_label.txt',
-     "box_score" : 0.4,
-     "box_nms_iou" : 0.45
-    }
-   ```
-   | Target          | Model Type                       |  Describe                                         | 
-   | :-------------: |:-------------------------------- | :------------------------------------------------ | 
-   | Lanes           | `LaneModelType.UFLD_TUSIMPLE`    | Support Tusimple data with ResNet18 backbone.     | 
-   | Lanes           | `LaneModelType.UFLD_CULANE`      | Support CULane data with ResNet18 backbone.       | 
-   | Lanes           | `LaneModelType.UFLDV2_TUSIMPLE`  | Support Tusimple data with ResNet18/34 backbone.  |
-   | Lanes           | `LaneModelType.UFLDV2_CULANE`    | Support CULane data with ResNet18/34 backbone.    | 
-   | Object          | `ObjectModelType.YOLOV5`         | Support yolov5n/s/m/l/x model.                    | 
-   | Object          | `ObjectModelType.YOLOV5_LITE`    | Support yolov5lite-e/s/c/g model.                 | 
-   | Object          | `ObjectModelType.YOLOV8`         | Support yolov8n/s/m/l/x model.                    | 
-   
-   * Run :
-   
-    ```
-    python demo.py
-    ```
-
+ 
 <h1 id="Demo">➤ Demo</h1>
 
 * [***Demo Youtube Video***](https://www.youtube.com/watch?v=CHO0C1z5EWE)
