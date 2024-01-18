@@ -13,10 +13,6 @@
 * **OpenCV**, **Scikit-learn**, **onnxruntime**, **pycuda** and **pytorch**.
 
 
-    
-
-* [***Demo Youtube Video***](https://www.youtube.com/watch?v=CHO0C1z5EWE)
-
 * ***Display***
 
     ![!ADAS on video](https://github.com/ksp0814/lane-detection/blob/master/demo/lane-test01.jpg)
