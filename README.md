@@ -10,8 +10,6 @@
 - 전면 카메라를 이용한 운전자의 상태 파악
 
 
-* **OpenCV**, **Scikit-learn**, **onnxruntime**, **pycuda** and **pytorch**.
-
 
 * ***Display***
 
