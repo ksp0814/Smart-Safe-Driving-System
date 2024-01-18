@@ -26,11 +26,3 @@
 
     ![!LKAS](https://github.com/ksp0814/Smart-Safe-Driving-System/blob/master/demo/LKAS_01.jpg)
 
-<h1 id="License">➤ License</h1>
-WiFi Analyzer is licensed under the GNU General Public License v3.0 (GPLv3).
-
-**GPLv3 License key requirements** :
-* Disclose Source
-* License and Copyright Notice
-* Same License
-* State Changes
